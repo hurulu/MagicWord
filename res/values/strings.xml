@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MagicWord</string>
+	<string name="addWord">Input a new word you want to add</string>
+	<string name="button">add</string>
+	<string-array name="colors">
+		<item>all</item>
+		<item>a</item>
+		<item>but</item>
+		<item>had</item>
+		<item>have</item>
+<item>he</item>
+<item>her</item>
+<item>his</item>
+<item>my</item>
+<item>not</item>
+<item>of</item>
+<item>on</item>
+<item>she</item>
+<item>so</item>
+<item>them</item>
+<item>they</item>
+<item>us</item>
+<item>we</item>
+<item>you</item>
+
+		
+	</string-array>
+	<string name="color_prompt">Pick a Color. Any Color.</string>
+</resources>
